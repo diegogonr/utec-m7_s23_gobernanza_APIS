@@ -103,7 +103,7 @@ paths:
                 }
         passthroughBehavior: "when_no_match"
 
-    # --- SOLO PARA LABORATORIO PROPUESTO: DESCOMENTAR PARA PUBLICAR EL MOCK ---
+    # --- SOLO PARA LaABORATORIO PROPUESTO: DESCOMENTAR PARA PUBLICAR EL MOCK ---
     post:
       summary: "Crear una nueva cuenta para el cliente"
       description: "Crea una cuenta bancaria asociada al ID del cliente proporcionado."
