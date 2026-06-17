@@ -90,7 +90,7 @@ export const handler = async (event) => {
   }
 
   // ── POST /clientes/{clienteId}/cuentas (para Lab Propuesto) ──
-  // --- LABORATORIO PROPUESTO: DESCOMENTAR PARA IMPLEMENTAR EL POST ---
+  // --- LABORATORIO PROPUESTO: DESCOMENTAR PaaARA IMPLEMENTAR EL POST ---
   
   if (httpMethod === "POST") {
     let body;
